@@ -24,7 +24,8 @@
   },
   "devDependencies": {
     "@types/bcrypt": "^5.0.2",
-    "@types/node": "20.14.8"
+    "@types/node": "20.14.8",
+    "@types/react": "18.3.12"
   },
   "npm": {
     "overrides": {
